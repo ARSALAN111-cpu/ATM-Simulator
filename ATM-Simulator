@@ -1,0 +1,4 @@
+ATM-Simulator/
+│── ATM.java               # (your code goes here)
+│── database.sql           # (MySQL script, optional)
+│── README.md              # (project explanation)
